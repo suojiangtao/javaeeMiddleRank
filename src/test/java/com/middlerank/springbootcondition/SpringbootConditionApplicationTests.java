@@ -8,6 +8,7 @@ class SpringbootConditionApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("aaa");
     }
 
 }
